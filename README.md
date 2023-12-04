@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Umashnkar10
+- 👋 Hi, I’m @Umashankar10
 - 👀 I’m interested in Data Science and ML 
-- 🌱 I’m currently learning Machine Learning Basic
+- 🌱 I’m currently learning Data Engineer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
